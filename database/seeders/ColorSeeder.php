@@ -25,6 +25,7 @@ class ColorSeeder extends Seeder
             'Altynsow',
             'Çal',
             'Gyzyl',
+            'mamishi',
         ];
         foreach ($objs as $obj) {
             Color::create([
